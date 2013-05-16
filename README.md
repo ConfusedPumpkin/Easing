@@ -29,3 +29,5 @@ Gets ball to follow mouse
       circleX+=distX*easing;
       circleY+=distY*easing;
     }
+
+And then I just needed to make another commit.
